@@ -32,4 +32,4 @@ To run the project, you need Python 3.x and the following libraries:
 The script can be run from the command line with the following arguments:
 
 ```bash
-python feature_selection.py <path_to_dataset> --output <output_file>
+python script/feature_selection.py CSV/<path_to_dataset> --output CSV/<output_file>
